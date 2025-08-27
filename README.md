@@ -7,4 +7,4 @@
 ---
 
 ✅ 🔗 **Полезни линкове:**  
-  ✔ `https://softuni.bg/trainings/courses`
+  ✔ `https://softuni.bg/`
